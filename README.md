@@ -14,5 +14,5 @@ Api to practice automated testing
     ## Clone Pokedex-Api
     # 'git clone https://github.com/Saetabis1/Pokedex-Api.git' where you want to place repository
     ## Run Api
-    # Stand in pokedex-api folder in any terminal
+    # Stand in Pokedex.Webapi folder in any terminal
     # Type 'dotnet run' and hit enter
